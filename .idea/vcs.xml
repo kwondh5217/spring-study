@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cors/springcorsclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cors/springcorsserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db-connect/springbootmongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db-connect/springbootneo4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db-connect/springbootredis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-boot-mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-spring-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-web-mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demojpa3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demojwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootjpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootsecurity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springsecuritycustom" vcs="Git" />
+  </component>
+</project>
